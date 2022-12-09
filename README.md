@@ -1,4 +1,4 @@
-# -Appliances-Energy-Prediction-Dataset
+# -Appliances-Energy-Prediction
 PREDICTING ENERGY EFFICIENCY OF BUILDINGS # (Using Regression Models)
 
 
